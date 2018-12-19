@@ -36,44 +36,45 @@ All the content of this book is available on github in my account
         * Foreword
 
 - **Install the environment**
-        * Let's be prepared       
-        * Install Homebrew        
-        * Install Node & NPM      
-        * Install Postman 
-        * Install Newman  
-        * Few lines about Newman usage    
+        * Let's be prepared
+        * Install Homebrew       
+        * Install Node & NPM
+        * Install Postman
+        * Install Newman 
+        * Few lines about Newman usage
         * Few other tools
 
 - **Create an API with node** 
-        * Launch in the basic app 
-        * Some changes in the basic app   
+        * Launch in the basic app
+        * Some changes in the basic app
 
 - **Write Gherkin Features**  
-        * Quick intro to features 
+        * Quick intro to features
 
 - **Basic Tests JavaScript**  
-        * Custom Code vs PM API   
-        * Make the script works or fails  
-        * Fuzzy Refinements       
+        * Custom Code vs PM API
+        * Make the script works or fails
+        * Fuzzy Refinements
 
 - **Intermediate Tests**      
-        * Tests Great Evolution Gallery   
-        * Progressing in test writing     
-        * Shrinking the code with functions       
+        * Tests Great Evolution Gallery
+        * Progressing in test writing
+        * Shrinking the code with functions     
 
 - **Advanced Tests NPM**      
-        * Using MPM to launch tests       
+        * Using MPM to launch tests      
 
 - **CI Jenkins-Newman**       
-        * Newman take-away : using the —folder parameter  
-        * Make the couple Jenkins-Newman works    
+        * Newman take-away : using the —folder parameter
+        * Make the couple Jenkins-Newman works  
 
 - **Conclusion**      
-        * End of the journey      
+        * End of the journey    
 
 - **Resources**
-        * Some Resources 
+        * Some Resources
 
 - **Lexicon**
-        * Some Definitions        
+        * Some Definitions
+
 
