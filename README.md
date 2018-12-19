@@ -32,24 +32,24 @@ All the content of this book is available on github in my account https://github
 
 #### Table Of Contents
 
-- [Install](#install)
-- [CLI](#cli)
-- [Highlights](#highlights)
-- [Usage](#usage)
-- [API](#api)
-  * [toc.plugin](#tocplugin)
-  * [toc.json](#tocjson)
-  * [toc.insert](#tocinsert)
-  * [Utility functions](#utility-functions)
-- [Options](#options)
-  * [options.append](#optionsappend)
-  * [options.filter](#optionsfilter)
-  * [options.slugify](#optionsslugify)
-  * [options.bullets](#optionsbullets)
-  * [options.maxdepth](#optionsmaxdepth)
-  * [options.firsth1](#optionsfirsth1)
-  * [options.stripHeadingTags](#optionsstripheadingtags)
-- [About](#about)
+- Install 
+- CLI
+- Highlights 
+- Usage
+- API
+  * toc.plugin
+  * toc.json
+  * toc.insert
+  * Utility functions
+- Options
+  * options.append
+  * options.filter
+  * options.slugify
+  * options.bullets
+  * options.maxdepth
+  * options.firsth1
+  * options.stripHeadingTags
+- About
 
 
 
@@ -92,8 +92,8 @@ CI Jenkins-Newman
 Conclusion      
         End of the journey      
 
-Ressources      
-        Some Ressources 
+Resources      
+        Some Resources 
 
 Lexicon 
         Some Definitions        
