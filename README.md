@@ -11,7 +11,7 @@ I have discovered through my job, the requirement to make tests both from a tech
 
 This repository must be seen next to the book as I give much more explanations to each part of the scripts.
 
-Here 2 elements extracted from the book: The Foreword and the Table Of Contents to spur your curiosity. Remember, this book has been written for non-developers as API testing is at the crossroad of marketing, editorial and technical issue and is the main guarantee for quality.
+**Here 2 elements extracted from the book: The Foreword and the Table Of Contents to spur your curiosity. Remember, this book has been written for non-developers as API testing is at the crossroad of marketing, editorial and technical issue and is the main guarantee for quality.**
 
 #### Foreword
 
@@ -25,76 +25,55 @@ The idea was to create a real MVP of an API plus the tests that insure the quali
 
 I found an open source project named restcountries.eu and leveraged on this application to insert flag in it. At the very beginning, I have called it fl@g@pi and finally renamed to flagapi with no "at sign" @, as the @ is too hard to cut and paste. My purpose is to be able to test the main end-points of this new application.
 
-So basically, my TodoList is or was the plan of this book.
+**So basically, my TodoList is or was the plan of this book.**
 
-All the content of this book is available on github in my account https://github.com/bflaven/a-quick-journey-through-api-testing
-
+All the content of this book is available on github in my account 
+[https://github.com/bflaven/a-quick-journey-through-api-testing](https://github.com/bflaven/a-quick-journey-through-api-testing)
 
 #### Table Of Contents
 
-- Install 
-- CLI
-- Highlights 
-- Usage
-- API
-  * toc.plugin
-  * toc.json
-  * toc.insert
-  * Utility functions
-- Options
-  * options.append
-  * options.filter
-  * options.slugify
-  * options.bullets
-  * options.maxdepth
-  * options.firsth1
-  * options.stripHeadingTags
-- About
+- **Introduction**
+        * Foreword
 
+- **Install the environment**
+        * Let's be prepared       
+        * Install Homebrew        
+        * Install Node & NPM      
+        * Install Postman 
+        * Install Newman  
+        * Few lines about Newman usage    
+        * Few other tools
 
+- **Create an API with node** 
+        * Launch in the basic app 
+        * Some changes in the basic app   
 
-Introduction
-        Foreword
+- **Write Gherkin Features**  
+        * Quick intro to features 
 
-Install the environment
-        Let's be prepared       
-        Install Homebrew        
-        Install Node & NPM      
-        Install Postman 
-        Install Newman  
-        Few lines about Newman usage    
-        Few other tools
+- **Basic Tests JavaScript**  
+        * Custom Code vs PM API   
+        * Make the script works or fails  
+        * Fuzzy Refinements       
 
-Create an API with node 
-        Launch in the basic app 
-        Some changes in the basic app   
+- **Intermediate Tests**      
+        * Tests Great Evolution Gallery   
+        * Progressing in test writing     
+        * Shrinking the code with functions       
 
-Write Gherkin Features  
-        Quick intro to features 
+- **Advanced Tests NPM**      
+        * Using MPM to launch tests       
 
-Basic Tests JavaScript  
-        Custom Code vs PM API   
-        Make the script works or fails  
-        Fuzzy Refinements       
+- **CI Jenkins-Newman**       
+        * Newman take-away : using the —folder parameter  
+        * Make the couple Jenkins-Newman works    
 
-Intermediate Tests      
-        Tests Great Evolution Gallery   
-        Progressing in test writing     
-        Shrinking the code with functions       
+- **Conclusion**      
+        * End of the journey      
 
-Advanced Tests NPM      
-        Using MPM to launch tests       
+- **Resources**
+        * Some Resources 
 
-CI Jenkins-Newman       
-        Newman take-away : using the —folder parameter  
-        Make the couple Jenkins-Newman works    
-
-Conclusion      
-        End of the journey      
-
-Resources      
-        Some Resources 
-
-Lexicon 
-        Some Definitions        
+- **Lexicon**
+        * Some Definitions        
 
