@@ -33,7 +33,7 @@ Prefix  | Description | Extension | Example
 ------------- | ------------- | ------------- | -------------
 ins_ | The script in JavaScript | .js | ins_flagadi_v2_flag.js
 newman_  | The Shell script that launch the test's script in Newman | .sh | newman_flagadi_v2_flag.sh
-readme_  | The readme file identical to this one | .md | readme_flagadi_v2_flag.md
+readme_  | The readme file identical to this one | .md | README.md
 
 
 **3. Directory**
