@@ -33,7 +33,7 @@ All the content of this book is available on github in my account
 #### Table Of Contents
 
 - **Introduction**
-        * Foreword
+        - Foreword
 
 - **Install the environment**
         * Let's be prepared
