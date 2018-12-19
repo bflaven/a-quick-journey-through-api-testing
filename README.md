@@ -1,10 +1,10 @@
-##  A quick journey through API Testing. 
+#  A quick journey through API Testing. 
 From Node Application to Postman best practices through Gherkin features
 
 
 This repository is the one for the book "A quick journey through API Testing. From Node Application to Postman best practices through Gherkin features" written by Bruno Flaven.
 
-### Introduction
+## Introduction
 
 I have discovered through my job, the requirement to make tests both from a technical and a content point of view. For anyone who is running an API centric ecosystem of website, applications, third-parties, partners, testing is a prerequisite. It has been a long and tedious process of a progressive discovery of tools, mindset, technology that enable API testing. At the end of this process, I have decided to compile all my investigations into a book named "A quick journey through API Testing. From Node Application to Postman best practices through Gherkin features"
 
@@ -13,7 +13,7 @@ This repository must be seen next to the book as I give much more explanations t
 
 **Here 2 elements extracted from the book: The Foreword and the Table Of Contents to spur your curiosity. Remember, this book has been written for non-developers as API testing is at the crossroad of marketing, editorial and technical issue and is the main guarantee for quality.**
 
-#### Foreword
+### Foreword
 
 It makes few months that I am working with Postman, first to learn how Postman works and how can I use it as a tool for testing especially an API that feeds mobile applications. I read a lot of resources regarding this subject and here is a synthesis of what I learned.
 
@@ -30,7 +30,7 @@ I found an open source project named restcountries.eu and leveraged on this appl
 All the content of this book is available on github in my account 
 [https://github.com/bflaven/a-quick-journey-through-api-testing](https://github.com/bflaven/a-quick-journey-through-api-testing)
 
-#### Table Of Contents
+### Table Of Contents
 
 - **Introduction**
     * Foreword
