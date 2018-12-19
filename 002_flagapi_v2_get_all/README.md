@@ -76,7 +76,7 @@ Ex : dat_flagapi_v2_get_all.postman_sample_data.json
 
 * The environment file with the following extension (.postman_environment.json) contains the principal variables executed by Postman.
 
-Ex : env_prod_bnm_flagapi_v2_get_all.postman_environment.json
+Ex : env_flagapi_v2_get_all.postman_environment.json
 
 
 ```

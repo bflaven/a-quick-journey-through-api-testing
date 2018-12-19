@@ -1,0 +1,23 @@
+[{
+		"guid": "JP",
+		"name": "Japan"
+	},
+	{
+		"guid": "FR",
+		"name": "France"
+
+	},
+	{
+		"guid": "US",
+		"name": "United States of America"
+
+	},{
+		"guid": "AF",
+		"name": "Afghanistan"
+
+	},{
+		"guid": "ZM",
+		"name": "Zambia"
+
+	}
+]
