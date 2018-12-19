@@ -10,12 +10,6 @@
 # sh newman_flagapi_v2_get_all.sh
 
 
-# cd /Volumes/old_disk/01_postman_book/migration_scripts/002_flagapi_v2_get_all/
-# sh newman_flagapi_v2_get_all.sh
-
-
-
-
 ### CONFIG FOR MEZZO ####
 ### --- POSTMAN_COLLECTION --- ###
 PATH_POSTMAN_COLLECTION="$PWD/coll/"

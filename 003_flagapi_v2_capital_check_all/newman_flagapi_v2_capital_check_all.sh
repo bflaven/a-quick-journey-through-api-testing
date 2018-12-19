@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 # #### USAGE
 
 # Goes to your test directory in the console
@@ -8,10 +7,6 @@
 
 # Launch the test in the console
 # sh newman_flagapi_v2_capital_check_all.sh
-
-
-
-
 
 
 ### CONFIG FOR MEZZO ####
