@@ -96,6 +96,5 @@ All the content of this book is available on github in my account
 - **Lexicon**
     * Some Definitions
 
-### Table Of Contents
 
 
