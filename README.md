@@ -6,10 +6,9 @@ This repository is the one for the book "A quick journey through API Testing. Fr
 
 ## Introduction
 
-I have discovered through my job, the requirement to make tests both from a technical and a content point of view. For anyone who is running an API centric ecosystem of website, applications, third-parties, partners, testing is a prerequisite. It has been a long and tedious process of a progressive discovery of tools, mindset, technology that enable API testing. At the end of this process, I have decided to compile all my investigations into a book named "A quick journey through API Testing. From Node Application to Postman best practices through Gherkin features"
+I discovered through my job, the requirement to make tests both from a technical and a content point of view. For anyone who is running an API centric ecosystem of website, applications, third-parties, partners... Testing is a prerequisite. For me, learning testing has been a long and tedious process of a progressive discovery of tools, mindset, technology that enable API testing. At the end of this process, I have decided to compile all my investigations into a book named "A quick journey through API Testing. From Node Application to Postman best practices through Gherkin features"
 
-
-This repository must be seen next to the book as I give much more explanations to each part of the scripts.
+This repository must be seen next to the book as I give much more explanations for each part of the scripts.
 
 **Here 2 elements extracted from the book: The Foreword and the Table Of Contents to spur your curiosity. Remember, this book has been written for non-developers as API testing is at the crossroad of marketing, editorial and technical issue and is the main guarantee for quality.**
 
@@ -19,7 +18,7 @@ It makes few months that I am working with Postman, first to learn how Postman w
 
 As a reminder, my objective was to convince a non-developer to resort to tests at an early stage in the development of an API-centric digital product e.g. Desktop, Mobile Application… etc. 
 
-In the meantime, I had to figure out what API can I use to illustrate the process of creating’s tests. For this part, that’s my son who has given me the idea of the API that will be used to illustrate this book. Just to make it short, we are sometimes playing with a cards game with country’s flags. So, I have decided to create an API that contains all countries with all information that can be useful including flags.
+In the meantime, I had to figure out what API can I use to illustrate the tests creation's process. For this part, that’s my son who has given me the idea of the API that will be used to illustrate this book. Just to make it short, we are sometimes playing with a cards game with country’s flags. So, I have decided to create an API that contains all countries with all information that can be useful including flags.
 
 The idea was to create a real MVP of an API plus the tests that insure the quality of the content exposed and explore the ability of Postman/Newman to test it. My approach is that for each end-point, I had to think at the same time to the test that validates this new feature and its content.
 
@@ -77,5 +76,7 @@ All the content of this book is available on github in my account
 
 - **Lexicon**
     * Some Definitions
+
+### Table Of Contents
 
 
