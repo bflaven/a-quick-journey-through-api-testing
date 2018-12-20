@@ -24,7 +24,7 @@ The idea was to create a real MVP of an API plus the tests that insure the quali
 
 I found an open source project named restcountries.eu and leveraged on this application to insert flag in it. At the very beginning, I have called it fl@g@pi and finally renamed to flagapi with no "at sign" @, as the @ is too hard to cut and paste. My purpose is to be able to test the main end-points of this new application.
 
-**So basically, my TodoList is and was the plan of this book.**
+**So basically, my TodoList has become the plan of this book.**
 
 All the content of this book is available on github in my account 
 [https://github.com/bflaven/a-quick-journey-through-api-testing](https://github.com/bflaven/a-quick-journey-through-api-testing)
