@@ -1,5 +1,5 @@
 
-## FMM Test for Postman Newman - 004_folder_countries_api
+##  A quick journey through API Testing - 004_folder_countries_api
 
 We will both test the JSON-Schema and the existence of all values inside our JSON API using the --folder parameter in Postman. So the collection includes all the previous scripts: 001_flagapi_v2_flag, 002_flagapi_v2_get_all, 003_flagapi_v2_capital_check_all.
 
