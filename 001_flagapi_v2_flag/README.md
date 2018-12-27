@@ -1,5 +1,5 @@
 
-## FMM Test for Postman Newman - 001_flagadi_v2_flag
+## A quick journey through API Testing  - 001_flagadi_v2_flag
 
 
 We will both test the JSON-Schema and the existence of certain values inside the JSON answer eg http://localhost:3000/api/v2/flag/ZM. 
