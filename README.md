@@ -3,6 +3,9 @@ From Node Application to Postman best practices through Gherkin features
 
 This repository is the one for the book "A quick journey through API Testing. From Node Application to Postman best practices through Gherkin features" written by Bruno Flaven.
 
+**The book can be found on Amazon at this address: [A quick journey through API Testing. From Node Application to Postman best practices through Gherkin features (English Edition)](https://www.amazon.fr/dp/B07MH81L1X/)**
+
+
 ## Introduction
 
 I discovered through my job, the requirement to make tests both from a technical and a content point of view. For anyone who is running an API centric ecosystem of website, applications, third-parties, partners... Testing is a prerequisite. For me, learning testing has been a long and tedious process of a progressive discovery of tools, mindset, technology that enable API testing. At the end of this process, I have decided to compile all my investigations into a book named "A quick journey through API Testing. From Node Application to Postman best practices through Gherkin features"
